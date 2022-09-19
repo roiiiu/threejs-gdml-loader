@@ -1,6 +1,6 @@
 {
   "name": "threejs-gdml-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "./lib/main.js",
   "types": "./lib/main.d.ts",
@@ -18,7 +18,10 @@
     "GDML"
   ],
   "author": "Roy",
-  "repository": {"type": "git", "url": "https://github.com/XMZOVO/threejs-gdml-loader"},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XMZOVO/threejs-gdml-loader"
+  },
   "license": "ISC",
   "homepage": "https://zhongpeiying.com"
 }
