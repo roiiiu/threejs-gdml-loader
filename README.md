@@ -1,6 +1,10 @@
 # Threejs-GDML-loader
 This is the `GDML` file loader for the new version of `three.js`.  
 Based on the work of [tpmccauley](https://github.com/tpmccauley).
+## Installation
+```
+pnpm i threejs-gdml-loader
+```
 ## usage
 ``` ts
 import {GDMLLoader} from "threejs-gdml-loader"
