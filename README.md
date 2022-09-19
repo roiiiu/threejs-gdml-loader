@@ -5,7 +5,7 @@ Based on the work of [tpmccauley](https://github.com/tpmccauley).
 ```
 pnpm i threejs-gdml-loader
 ```
-## usage
+## Usage
 ``` ts
 import {GDMLLoader} from "threejs-gdml-loader"
 
@@ -14,5 +14,7 @@ gdmlLoader.load("path-to-asset", (object)=>{
     scene.add(object);
 });
 ```
+## Demo
+![Demo](picture/demo.png) 
 ## Tips
 This version is still under development. Only simple geometry import has been tested so far.
