@@ -18,6 +18,7 @@
     "GDML"
   ],
   "author": "Roy",
-  "repository": {"type": "git", "url": "https://github.com/XMZOVO/threejs_gdml_loader"},
-  "license": "ISC"
+  "repository": {"type": "git", "url": "https://github.com/XMZOVO/threejs-gdml-loader"},
+  "license": "ISC",
+  "homepage": "https://zhongpeiying.com"
 }
